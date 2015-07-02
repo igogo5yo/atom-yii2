@@ -8,7 +8,7 @@
       "yii2",
       "Yii Framework 2"
   ],
-  "repository": "https://github.com/atom/atom-yii2",
+  "repository": "https://github.com/igogo5yo/atom-yii2",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
