@@ -1,0 +1,4 @@
+'.source.php':
+  'Yii 2 refresh':
+    'prefix': 'rf'
+    'body': '\$this->refresh();'

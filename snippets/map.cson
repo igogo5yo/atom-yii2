@@ -1,0 +1,4 @@
+'.text.html':
+  'Yii 2 ArrayHelper::map':
+    'prefix': 'ahmap'
+    'body': '<?= ArrayHelper::map(${1:[$2]}, \'${3:valueField}\', \'${4:textField}\'${5:, \'${6:groupField}\'}); ?>'

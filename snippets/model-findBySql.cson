@@ -1,0 +1,4 @@
+'.source.php':
+  'Yii 2 Model findBySql':
+    'prefix': 'findbs'
+    'body': '${1:ModelName}::findBySql(${2:[\'${4:key}\'=>${5:value}]})->all()'

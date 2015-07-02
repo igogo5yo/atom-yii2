@@ -1,0 +1,4 @@
+'.text':
+  'Yii 2 Html::checkbox':
+    'prefix': 'hc'
+    'body': '<?= Html::checkbox(\'${1:name}\', ${2:false}${3:, [\'${4:optionName}\' => ${5:optionValue}]}); ?>'

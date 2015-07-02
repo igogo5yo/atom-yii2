@@ -1,0 +1,4 @@
+'.source.php':
+  'Yii 2 register CSS':
+    'prefix': 'regc'
+    'body': '$this->registerCss(\'${1:id}\');'

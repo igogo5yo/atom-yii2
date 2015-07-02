@@ -1,0 +1,4 @@
+'.text.html':
+  'Yii 2 Html::cssFile':
+    'prefix': 'hcssf'
+    'body': '<?= Html::cssFile(\'${1:url}\'${2:, [\'${3:optionName}\' => ${4:optionValue}]}); ?>'

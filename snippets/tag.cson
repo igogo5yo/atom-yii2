@@ -1,0 +1,4 @@
+'.text.html':
+  'Yii 2 Html::tag':
+    'prefix': 'ht'
+    'body': '<?= Html::tag(\'${1:tag}\'${2:, [\'${3:optionName}\' => ${4:optionValue}]}); ?>'

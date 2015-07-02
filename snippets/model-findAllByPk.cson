@@ -1,0 +1,4 @@
+'.source.php':
+  'Yii 2 Model findAllByPk':
+    'prefix': 'findabp'
+    'body': '${1:ModelName}::model()->findAllByPk(${2:pk}, ${3:condition}${4:, [\'${5:key}\' => ${6:value}]})'

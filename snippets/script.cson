@@ -1,0 +1,4 @@
+'.text.html':
+  'Yii 2 Html::script':
+    'prefix': 'hjs'
+    'body': '<?= Html::script(\'${1:test}\'); ?>'

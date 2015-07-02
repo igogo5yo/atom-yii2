@@ -1,0 +1,4 @@
+'.text.html':
+  'Yii 2 Html::textInput':
+    'prefix': 'hti'
+    'body': '<?= Html::textInput(\'${1:name}\', \'${2:value}\'${3:, [\'${4:optionName}\' => ${5:optionValue}]}); ?>'

@@ -1,0 +1,4 @@
+'.text':
+  'Yii 2 Html::button':
+    'prefix': 'hb'
+    'body': '<?= Html::button(\'${1:label}\'${2:, [\'${3:optionName}\' => ${4:optionValue}]}); ?>'

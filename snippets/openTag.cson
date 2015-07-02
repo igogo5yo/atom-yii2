@@ -1,0 +1,4 @@
+'.text.html':
+  'Yii 2 Html::openTag':
+    'prefix': 'hot'
+    'body': '<?= Html::openTag(\'${1:tag}\'${2:, [\'${3:optionName}\' => ${4:optionValue}]}); ?>'

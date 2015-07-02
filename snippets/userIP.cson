@@ -1,0 +1,4 @@
+'.source.php':
+  'Yii 2 userIP':
+    'prefix': 'userip'
+    'body': 'Yii::$app->request->userIP'

@@ -1,0 +1,4 @@
+'.source.php':
+  'Yii 2 Flush cache':
+    'prefix': 'caf'
+    'body': 'Yii::$app->cache->flush();'

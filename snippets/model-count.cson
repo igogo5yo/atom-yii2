@@ -1,0 +1,4 @@
+'.source.php':
+  'Yii 2 Model count':
+    'prefix': 'countm'
+    'body': '${1:ModelName}::find()->where(${2:[\'${4:key}\' => ${5:value}]})->count()'

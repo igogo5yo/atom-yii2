@@ -1,0 +1,4 @@
+'.source.php':
+  'Yii 2 Model updateCounters':
+    'prefix': 'updatecounters'
+    'body': '${1:ModelName}::updateCounters({2:[\'${6:key}\' => ${7:value}]})'

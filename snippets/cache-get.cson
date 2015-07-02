@@ -1,0 +1,4 @@
+'.source.php':
+  'Yii 2 Get cache':
+    'prefix': 'cag'
+    'body': 'Yii::$app->cache->get(\'${1:key}\');'

@@ -1,0 +1,4 @@
+'.text':
+  'Yii 2 Html::beginForm':
+    'prefix': 'hbeform'
+    'body': '<?= Html::beginForm(${1:[\'$2\']}, \'${3:post}\'${4:, [\'${5:optionName}\' => ${6:optionValue}]}); ?>$0<?= Html::endForm(); ?>'

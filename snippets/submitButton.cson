@@ -1,0 +1,4 @@
+'.text.html':
+  'Yii 2 Html::resetButton':
+    'prefix': 'hsb'
+    'body': '<?= Html::submitButton(\'${1:label}\'${2:, [\'${3:optionName}\' => ${5:optionValue}]}); ?>'

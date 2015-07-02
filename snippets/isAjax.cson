@@ -1,0 +1,4 @@
+'.source.php':
+  'Yii 2 isAjax':
+    'prefix': 'isajax'
+    'body': 'Yii::$app->request->isAjax'

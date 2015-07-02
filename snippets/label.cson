@@ -1,0 +1,4 @@
+'.text.html':
+  'Yii 2 Html::label':
+    'prefix': 'hlabel'
+    'body': '<?= Html::label(\'${1:label}\', \'${2:for}\'${3:, [\'${4:optionName}\' => ${5:optionValue}]}); ?>'

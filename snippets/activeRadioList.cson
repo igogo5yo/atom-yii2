@@ -1,0 +1,4 @@
+'.text.html':
+  'Yii 2 Html::activeRadioList':
+    'prefix': 'harl'
+    'body': '<?= Html::activeRadioList(${1:model}, \'${2:attribute}\', [$3]${4:, [\'${5:optionName}\' => ${6:optionValue}]}); ?>'

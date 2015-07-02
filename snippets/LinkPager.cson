@@ -1,0 +1,4 @@
+'.text.html':
+  'Yii 2 LinkPager':
+    'prefix': 'linkpager'
+    'body': '<?= LinkPager::widget(\'pages\' => \$pages${1:, \'header\' => \'$2\'}) ?>'
