@@ -1,18 +1,17 @@
 {
   "name": "atom-yii2",
   "main": "./lib/atom-yii2",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Atom package for works with Yii Framework 2",
   "keywords": [
-      "atom",
-      "yii2",
-      "Yii Framework 2"
+    "atom",
+    "yii2",
+    "Yii Framework 2"
   ],
   "repository": "https://github.com/igogo5yo/atom-yii2",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
