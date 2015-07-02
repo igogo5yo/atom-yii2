@@ -4,4 +4,4 @@
 [![apm](https://img.shields.io/apm/l/atom-yii2.svg)]()
 
 
-Atom package for works with Yii Framework 2
+Atom package for work with Yii Framework 2
