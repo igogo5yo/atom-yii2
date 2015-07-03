@@ -1,6 +1,6 @@
 {
   "name": "atom-yii2",
-  "main": "./lib/atom-yii2",
+  "main": "./lib/main",
   "version": "0.1.1",
   "description": "Atom package for work with Yii Framework 2",
   "keywords": [
@@ -12,6 +12,13 @@
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
+  },
+  "providedServices": {
+    "autocomplete.provider": {
+      "versions": {
+        "2.0.0": "getProvider"
+      }
+    }
   },
   "dependencies": {}
 }
