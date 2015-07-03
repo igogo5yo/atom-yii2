@@ -1,0 +1,4 @@
+'.text':
+  'Yii 2 Html::error':
+    'prefix': 'herr'
+    'body': '<?= Html::error(${1:model}, \'${2:attribute}\'${3:, [\'${4:optionName}\' => ${5:optionValue}]}); ?>'

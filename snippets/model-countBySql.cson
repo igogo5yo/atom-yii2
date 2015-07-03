@@ -1,0 +1,4 @@
+'.source.php':
+  'Yii 2 Model countBySql':
+    'prefix': 'countbs'
+    'body': '${1:ModelName}::findBySql(${2:sql}${3:, [\'${4:key}\' => ${5:value}]})->count()'

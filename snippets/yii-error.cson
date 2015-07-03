@@ -1,0 +1,4 @@
+'.source.php':
+  'Yii 2 trace':
+    'prefix': 'trace'
+    'body': 'Yii::trace(\'${1:msg}\');'

@@ -1,0 +1,4 @@
+'.text.html':
+  'Yii 2 Html::a':
+    'prefix': 'ha'
+    'body': '<?= Html::a(\'${1:text}\', ${2:[$3]}${4:, [\'${5:optionName}\' => ${6:optionValue}]}); ?>'

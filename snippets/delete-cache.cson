@@ -1,0 +1,4 @@
+'.source.php':
+  'Yii 2 Yii::$app->cache->delete':
+    'prefix': 'delcache'
+    'body': 'Yii::$app->cache->delete(\'${1:key}\');'

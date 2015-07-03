@@ -1,0 +1,4 @@
+'.source.php':
+  'Yii 2 Model deleteAll':
+    'prefix': 'dela'
+    'body': '${1:ModelName}::deleteAll(${2:condition}${3:, [\'${4:key}\' => ${5:value}]})'

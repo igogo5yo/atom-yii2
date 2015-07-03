@@ -1,0 +1,4 @@
+'.text.html':
+  'Yii 2 Html::hiddenInput':
+    'prefix': 'hhi'
+    'body': '<?= Html::hiddenInput(\'${1:name}\', \'${2:value}\'${3:, [\'${4:optionName}\' => ${5:optionValue}]}); ?>'

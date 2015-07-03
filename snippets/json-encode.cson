@@ -1,0 +1,4 @@
+'.source.php':
+  'Yii 2 JSON::encode':
+    'prefix': 'jec'
+    'body': 'JSON::encode(${1:text});'

@@ -1,0 +1,9 @@
+'.source.php':
+  'Yii 2 Create controller action method':
+    'prefix': 'act'
+    'body': """
+    public function action${1:Index}()
+    {
+    	$0
+    }
+    """

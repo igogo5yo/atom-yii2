@@ -1,0 +1,4 @@
+'.text':
+  'Yii 2 Html::fileInput':
+    'prefix': 'hfi'
+    'body': '<?= Html::fileInput(\'${1:name}\', \'${2:value}\'${3:, [\'${4:optionName}\' => ${5:optionValue}]}); ?>'

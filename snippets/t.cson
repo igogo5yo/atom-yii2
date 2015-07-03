@@ -1,0 +1,4 @@
+'.source.php':
+  'Yii 2 translate':
+    'prefix': 't'
+    'body': 'Yii::t(\'${1:category}\', \'${2:message}\'${3:, [$4]});'

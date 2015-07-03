@@ -1,0 +1,4 @@
+'.text':
+  'Yii 2 Html::radio':
+    'prefix': 'hr'
+    'body': '<?= Html::radio(\'${1:name}\', ${2:false}${3:, [\'${4:optionName}\' => ${5:optionValue}]}); ?>'

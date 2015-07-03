@@ -1,0 +1,4 @@
+'.source.php':
+  'Yii 2 register script file':
+    'prefix': 'regsf'
+    'body': '$this->registerJSFile(\'${1:scriptUrl}\');'

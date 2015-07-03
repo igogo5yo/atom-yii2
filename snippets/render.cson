@@ -1,0 +1,4 @@
+'.source.php':
+  'Yii 2 render view':
+    'prefix': 'r'
+    'body': '\$this->render(\'${1:view}\'${2:, [\'${3:key}\' => ${4:value}]});'

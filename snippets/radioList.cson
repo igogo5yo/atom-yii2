@@ -1,0 +1,4 @@
+'.text':
+  'Yii 2 Html::radioList':
+    'prefix': 'hrl'
+    'body': '<?= Html::radioList(\'${1:name}\', ${2:select}, [$3]${4:, [\'${5:optionName}\' => ${6:optionValue}]}); ?>'

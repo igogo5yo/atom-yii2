@@ -1,0 +1,4 @@
+'.text':
+  'Yii 2 Html::beginTag':
+    'prefix': 'hbt'
+    'body': '<?= Html::beginTag(\'${1:tag}\', [\'${2:optionName}\' => ${3:optionValue}]); ?>'

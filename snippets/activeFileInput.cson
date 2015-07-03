@@ -1,0 +1,4 @@
+'.text.html':
+  'Yii 2 Html::activeFileInput':
+    'prefix': 'hafi'
+    'body': '<?= Html::activeFileInput(${1:model}, \'${2:attribute}\'${3:, [\'${4:optionName}\' => ${5:optionValue}]}); ?>'

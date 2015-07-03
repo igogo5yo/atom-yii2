@@ -1,0 +1,4 @@
+'.source.php':
+  'Yii 2 Model find':
+    'prefix': 'find'
+    'body': '${1:ModelName}::findOne(${2:[\'${4:key}\' => ${5:value}]})'

@@ -1,0 +1,9 @@
+'.source.php':
+  'Yii 2 IF isAjax':
+    'prefix': 'ifisajax'
+    'body': """
+    if(Yii::$app->request->isAjax)
+    {
+        $0
+    }
+    """

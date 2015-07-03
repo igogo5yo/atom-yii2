@@ -1,0 +1,13 @@
+'.source.php':
+  'CActiveDataProvider':
+    'prefix': 'adp'
+    'body': """
+    \$dataProvider = new ActiveDataProvider('$1', [
+        'query' => \$query,
+        //'pagination' => false,
+        'pagination' => [
+            'pageSize' => $5,
+        ],
+    ]);$0
+    // $dataProvider->getData() will return a list of Post objects
+    """

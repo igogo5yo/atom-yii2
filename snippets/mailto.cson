@@ -1,0 +1,4 @@
+'.text.html':
+  'Yii 2 Html::mailto':
+    'prefix': 'hmt'
+    'body': '<?= Html::mailto(\'${1:text}\', \'${2:email}\'${3:, [\'${4:optionName}\' => ${5:optionValue}]}); ?>'

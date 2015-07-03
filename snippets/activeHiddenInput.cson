@@ -1,0 +1,4 @@
+'.text.html':
+  'Yii 2 Html::activeHiddenInput':
+    'prefix': 'hahi'
+    'body': '<?= Html::activeHiddenInput(${1:model}, \'${2:attribute}\'${3:, [\'${4:optionName}\' => ${4:optionValue}]}); ?>'

@@ -1,0 +1,47 @@
+{
+  "name": "atom-yii2",
+  "main": "./lib/main",
+  "version": "0.1.1",
+  "description": "Atom package for work with Yii Framework 2",
+  "keywords": [
+    "atom",
+    "yii2",
+    "Yii Framework 2"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/igogo5yo/atom-yii2"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "providedServices": {
+    "autocomplete.provider": {
+      "versions": {
+        "2.0.0": "getProvider"
+      }
+    }
+  },
+  "dependencies": {},
+  "readme": "# atom-yii2 package\n[![apm](https://img.shields.io/apm/v/atom-yii2.svg)]()\n[![apm](https://img.shields.io/apm/dm/atom-yii2.svg)]()\n[![apm](https://img.shields.io/apm/l/atom-yii2.svg)]()\n\n\nAtom package for work with Yii Framework 2\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/igogo5yo/atom-yii2/issues"
+  },
+  "homepage": "https://github.com/igogo5yo/atom-yii2",
+  "_id": "atom-yii2@0.1.1",
+  "_shasum": "f14841a47208f9e836c8dffb67315f1c2261486d",
+  "_resolved": "file:../d-11563-8059-12gmp9l/package.tgz",
+  "_from": "../d-11563-8059-12gmp9l/package.tgz",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}

@@ -1,0 +1,41 @@
+'.text':
+  'Yii 2 Create model class':
+    'prefix': 'model'
+    'body': """
+    <?php
+    namespace ${1: common\\\\models};
+
+    use Yii;
+    use yii\\\\base\\\\NotSupportedException;
+    use yii\\\\db\\\\ActiveRecord;
+
+    /**
+     * ${2}
+     */
+    class ${3: $modelName} extends ${4: ActiveRecord}
+    {
+        /**
+         * @inheritdoc
+         */
+        public static function tableName()
+        {
+            return '{{%table}}';
+        }
+        /**
+         * @inheritdoc
+         */
+        public function behaviors()
+        {
+            return [
+            ];
+        }
+        /**
+         * @inheritdoc
+         */
+        public function rules()
+        {
+            return [
+            ];
+        }
+    }
+    """

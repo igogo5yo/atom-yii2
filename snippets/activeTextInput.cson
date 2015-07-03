@@ -1,0 +1,4 @@
+'.text.html':
+  'Yii 2 Html::activeTextInput':
+    'prefix': 'hati'
+    'body': '<?= Html::activeTextInput(${1:model}, \'${2:attribute}\'${3:, [\'${4:optionName}\' => ${5:optionValue}]}); ?>'
