@@ -46,13 +46,12 @@ module.exports =
   dispose: ->
 
   notShowAutocomplete: (request) ->
-    return true if request.prefix is ''
+    return true if request.prefix.length < 2
 
   getCompletions: ({editor, prefix}) ->
     completions = []
-    lowerCasePrefix = prefix.toLowerCase()
 
-    for keyword in @completions.keywords when keyword.text.toLowerCase().indexOf(lowerCasePrefix) is 0
+    for keyword in @completions.keywords when keyword.text.toLowerCase().indexOf(prefix.toLowerCase()) > -1
       completions.push(@buildCompletion(keyword))
 
     completions
