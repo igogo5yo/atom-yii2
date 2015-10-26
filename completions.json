@@ -210,5 +210,11 @@
 {"text":"yii\\base\\Widget","type":"keyword"},
 {"text":"Widget","type":"keyword"},
 {"text":"yii\\data\\Sort","type":"keyword"},
-{"text":"Sort","type":"keyword"}
+{"text":"Sort","type":"keyword"},
+{"text":"yii\\widgets\\DetailView","type":"keyword"},
+{"text":"DetailView","type":"keyword"},
+{"text":"yii\\widgets\\ListView","type":"keyword"},
+{"text":"ListView","type":"keyword"},
+{"text":"yii\\widgets\\GridView","type":"keyword"},
+{"text":"GridView","type":"keyword"}
 ]}
