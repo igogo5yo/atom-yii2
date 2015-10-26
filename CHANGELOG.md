@@ -9,3 +9,6 @@
 
 ## 0.3.1 - [alpha]
 * Better matching for classes and at least 3 letters are required (Thanks to @udokmeci)
+
+## 0.3.2 - [alpha]
+* Some README.md additions and support for some widgets autocomplete.

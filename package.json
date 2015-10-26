@@ -1,7 +1,7 @@
 {
   "name": "atom-yii2",
   "main": "./lib/main",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "Atom package for work with Yii Framework 2",
   "keywords": [
     "atom",
